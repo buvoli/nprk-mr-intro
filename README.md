@@ -1,6 +1,6 @@
 ---
 
-This directory contains Mathematica and MATLAB code for:
+This directory contains Mathematica and MATLAB code for the manuscript
 
     T. Buvoli, B. K. Tran, B. S. Southworth, "Multirate Runge-Kutta for Nonlinearly Partitioned Systems," (2025).
 

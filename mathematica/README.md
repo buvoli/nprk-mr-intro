@@ -1,6 +1,6 @@
 ---
 
-This directory contains the MATLAB code for reproducing stability figures from:
+This directory contains the Mathematica script for reproducing stability figures from the manuscript
 
     T. Buvoli, B. K. Tran, B. S. Southworth, "Multirate Runge-Kutta for Nonlinearly Partitioned Systems", 2025.
 

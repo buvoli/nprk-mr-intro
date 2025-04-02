@@ -1,6 +1,6 @@
 ---
 
-This directory contains the MATLAB code for reproducing stability figures from:
+This directory contains MATLAB code for reproducing the numerical experiment (Figure 4) from the manuscript
 
     T. Buvoli, B. K. Tran, B. S. Southworth, "Multirate Runge-Kutta for Nonlinearly Partitioned Systems", 2025.
 
